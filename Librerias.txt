@@ -1,0 +1,8 @@
+LIBREARIAS DEL INSTALADAS
+
+/* POR SI HAY ERROR DE PACKAGE*/
+pip3 install packaging
+
+#LIBRERIAS
+pip install customtkinter
+pip install bcrypt
