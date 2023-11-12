@@ -6,3 +6,14 @@ pip3 install packaging
 #LIBRERIAS
 pip install customtkinter
 pip install bcrypt
+pip install pillow (esta no)
+pip install tkcalendar
+
+
+cuentas medico
+user    medic
+pass    12345
+
+cuentas paciente
+user    pba
+pass    12345
